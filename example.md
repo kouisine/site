@@ -14,7 +14,7 @@ Vous pouvez également indiquer le temps de préparation/cuisson et le nombre de
 - 🍳 Temps de cuisson: 30 min
 - 🍽️ Nombre de portions: 4
 
-## Ingredients
+## Ingrédients
 
 - Il doit y avoir une ligne vide au-dessus de toutes les listes.
 - Énumérez les ingrédients

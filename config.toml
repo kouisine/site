@@ -1,4 +1,4 @@
-baseURL = 'https://based.cooking/'
+baseURL = 'https://kouisine.netlify.app'
 languageCode = 'en-us'
 title = 'Kouisine'
 theme = 'lugo'

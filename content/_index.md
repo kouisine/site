@@ -69,11 +69,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ## À Propos
 
-Ce site est un fork de [based.cooking](https://based.cooking). Based.cooking a été créé par [Luke Smith](https://lukesmith.xyz)
+Ce site est un fork de [based.cooking](https://based.cooking). Based.cooking a été créé par [Luke Smith](https://lukesmith.xyz).
 
 ## Vous pouvez contribuer au site !
 
 
-Le code et les recettes sont sur [Github](https://github.com/kouisine/site)
+Le code et les recettes sont sur [Github](https://github.com/kouisine/site).
 
 ---

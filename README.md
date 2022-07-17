@@ -2,7 +2,7 @@
 
 [https://kouisine.netlify.app](https://kouisine.netlify.app)
 
-Kouisine est un site de recette communautaire simple qui ne vous espionne pas.
+Kouisine est un site de recettes communautaire simple qui ne vous espionne pas.
 
 Kouisine est compilé avec [Hugo](https://gohugo.io) avec le thème [lugo](https://github.com/lukesmithxyz/lugo).
 This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).

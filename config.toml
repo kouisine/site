@@ -1,6 +1,6 @@
 baseURL = 'https://based.cooking/'
 languageCode = 'en-us'
-title = 'Based Cooking'
+title = 'Kouisine'
 theme = 'lugo'
 
 [params]

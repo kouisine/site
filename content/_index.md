@@ -1,5 +1,5 @@
 ---
-title: "🍲 Kouisine 🍳"
+title: "🍲 Kouizine 🍳"
 description: 'Un simple site de cuisine'
 ---
 
@@ -74,6 +74,6 @@ Ce site est un fork de [based.cooking](https://based.cooking). Based.cooking a �
 ## Vous pouvez contribuer au site !
 
 
-Le code et les recettes sont sur [Github](https://github.com/kouisine/site).
+Le code et les recettes sont sur [Github](https://github.com/kouizine/site).
 
 ---

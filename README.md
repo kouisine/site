@@ -1,13 +1,13 @@
-# Kouisine Website
+# Kouizine Website
 
-[https://kouisine.netlify.app](https://kouisine.netlify.app)
+[https://kouizine.netlify.app](https://kouizine.netlify.app)
 
-Kouisine est un site de recettes communautaire simple qui ne vous espionne pas.
+Kouizine est un site de recettes communautaire simple qui ne vous espionne pas.
 
-Kouisine est compilé avec [Hugo](https://gohugo.io) avec le thème [lugo](https://github.com/lukesmithxyz/lugo).
+Kouizine est compilé avec [Hugo](https://gohugo.io) avec le thème [lugo](https://github.com/lukesmithxyz/lugo).
 This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).
 
-## Comment puis-je contribuer à Kouisine ? 
+## Comment puis-je contribuer à Kouizine ? 
 - En ajoutant une recette
 - En ajoutant des photos au recettes qui n'en n'ont pas encore. Les images devrait être en format `.webp` et préférablement de taille inférieure à 100k.
 - En signalant les fautes d'orthographe, de grammaire via une issue.

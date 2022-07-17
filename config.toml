@@ -1,6 +1,6 @@
-baseURL = 'https://kouisine.netlify.app'
+baseURL = 'https://kouizine.netlify.app'
 languageCode = 'en-us'
-title = 'Kouisine'
+title = 'Kouizine'
 theme = 'lugo'
 
 [params]
